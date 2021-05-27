@@ -1,0 +1,14 @@
+com/timetrackingapp/MainActivity.java
+ com.timetrackingapp.MainActivity
+com/timetrackingapp/ReactNativeFlipper.java
+ com.timetrackingapp.ReactNativeFlipper
+ com.timetrackingapp.ReactNativeFlipper$1
+ com.timetrackingapp.ReactNativeFlipper$2
+ com.timetrackingapp.ReactNativeFlipper$2$1
+com/timetrackingapp/MainApplication.java
+ com.timetrackingapp.MainApplication
+ com.timetrackingapp.MainApplication$1
+com/timetrackingapp/BuildConfig.java
+ com.timetrackingapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
